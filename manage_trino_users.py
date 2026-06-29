@@ -13,7 +13,7 @@ ADMIN_EMAILS = [
 
 # READ-ONLY USERS: Can only run SELECT queries. Cannot modify data.
 READ_ONLY_EMAILS = [
-    # "john.doe@credresolve.com", 
+    "dipesh.yadav@credresolve.com"
 ]
 
 COORD_IP = "172.31.22.113"
