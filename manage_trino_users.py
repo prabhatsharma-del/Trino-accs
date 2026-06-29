@@ -7,8 +7,7 @@ import time
 # =====================================================================
 # ADMINS: Can read, write, create, and drop tables. (Full Access)
 ADMIN_EMAILS = [
-    "prabhat.sharma@credresolve.com",
-    "admin"
+    "prabhat.sharma@credresolve.com"
 ]
 
 # READ-ONLY USERS: Can only run SELECT queries. Cannot modify data.
