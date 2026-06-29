@@ -8,7 +8,8 @@ import time
 # ADMIN USERS: Full access to all catalogs. Can create, drop, and query everything.
 ADMIN_EMAILS = [
     "prabhat.sharma@credresolve.com",
-    "admin_trino"
+    "admin_trino",
+    "admin"
 ]
 
 # READ-ONLY USERS: Can only run SELECT queries. Cannot modify data.
