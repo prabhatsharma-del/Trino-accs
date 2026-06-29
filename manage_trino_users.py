@@ -5,9 +5,10 @@ import time
 # =====================================================================
 # TRINO USERS LIST
 # =====================================================================
-# ADMINS: Can read, write, create, and drop tables. (Full Access)
+# ADMIN USERS: Full access to all catalogs. Can create, drop, and query everything.
 ADMIN_EMAILS = [
-    "prabhat.sharma@credresolve.com"
+    "prabhat.sharma@credresolve.com",
+    "admin_trino"
 ]
 
 # READ-ONLY USERS: Can only run SELECT queries. Cannot modify data.
